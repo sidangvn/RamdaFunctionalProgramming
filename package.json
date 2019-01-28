@@ -1,0 +1,23 @@
+{
+  "name": "pp6",
+  "version": "1.0.0",
+  "description": "Programming Project 6 for COP4530",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "colors": "^1.3.2",
+    "got": "^9.3.1",
+    "ramda": "^0.25.0",
+    "terminal-image": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
